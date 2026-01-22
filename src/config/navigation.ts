@@ -13,6 +13,10 @@ export const navigationConfig = {
             title: '연락처',
             href: '/contact',
         },
+        {
+            title: '로그인',
+            href: '/login',
+        },
     ],
     footerNav: [
         {
